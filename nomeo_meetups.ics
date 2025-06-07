@@ -3,156 +3,413 @@ VERSION:2.0
 PRODID:-//Scott Jackson//NomeoMeetups//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:1749269962668-8oevferd@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457100-o9wz8al4@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Psychology Practice: In Search of Authenticity
+DTSTART:NaNNaNNaNTNaNNaNNaNZ
+DTEND:NaNNaNNaNTNaNNaNNaNZ
+LOCATION:Canggu
+DESCRIPTION:Psychology Practice: In Search of Authenticity\n\nIn 4 Days\n\n🇮🇩 Canggu\n\n6 going\nEvent link: https://nomeo.io/m/4515K
+URL:https://nomeo.io/m/4515K
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457100-6ego2z4r@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Paint & Network #3 🍻 Connect, Mingle, Create!
+DTSTART:NaNNaNNaNTNaNNaNNaNZ
+DTEND:NaNNaNNaNTNaNNaNNaNZ
+LOCATION:Bali
+DESCRIPTION:Paint & Network #3 🍻 Connect, Mingle, Create!\n\nIn 13 Days\n\n🇮🇩 Bali\n\n2 going\nEvent link: https://nomeo.io/m/uaLdK
+URL:https://nomeo.io/m/uaLdK
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457100-ld9poj1m@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:ClayMaji : Doing Art Clay on Mirror
 DTSTART:20250607T060000Z
 DTEND:20250607T080000Z
 LOCATION:
-DESCRIPTION:6:00 AM, Today\n\nClayMaji : Doing Art Clay on Mirror\n\nBy codeco bali\n\nLocation visible to Members Only\n\nSpots Available
+DESCRIPTION:6:00 AM, Today\n\nClayMaji : Doing Art Clay on Mirror\n\nBy codeco bali\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/FhVIi
+URL:https://nomeo.io/m/FhVIi
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962668-p5bzjakn@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457100-4tpf12vc@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:The Pool Lab: Gather, Play, Innovate 🎱🧪
 DTSTART:20250607T070000Z
 DTEND:20250607T090000Z
 LOCATION:
-DESCRIPTION:7:00 AM, Today\n\nThe Pool Lab: Gather, Play, Innovate 🎱🧪\n\nBy João Dias\n\nLocation visible to Members Only\n\n5 Spots
+DESCRIPTION:7:00 AM, Today\n\nThe Pool Lab: Gather, Play, Innovate 🎱🧪\n\nBy João Dias\n\nLocation visible to Members Only\n\n5 Spots\nEvent link: https://nomeo.io/m/lecsu
+URL:https://nomeo.io/m/lecsu
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962668-nojtttbw@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457100-6ec8ew1h@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Puppy Yoga & Sunset Drinks | Puppy Yoga Canggu
 DTSTART:20250607T073000Z
 DTEND:20250607T093000Z
 LOCATION:Canggu
-DESCRIPTION:7:30 AM, Today\n\nPuppy Yoga & Sunset Drinks | Puppy Yoga Canggu\n\nBy Entourage & Hidde\n\nAnginsepoi\n\n🇮🇩\nCanggu\n\n+8\n\n8 Spots
+DESCRIPTION:7:30 AM, Today\n\nPuppy Yoga & Sunset Drinks | Puppy Yoga Canggu\n\nBy Entourage & Hidde\n\nAnginsepoi\n\n🇮🇩\nCanggu\n\n+8\n\n8 Spots\nEvent link: https://nomeo.io/m/43EFz
+URL:https://nomeo.io/m/43EFz
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-65v7qxen@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457100-7kewfvv6@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Jiwa Jam
 DTSTART:20250607T100000Z
 DTEND:20250607T120000Z
 LOCATION:Canggu
-DESCRIPTION:10:00 AM, Today\n\nJiwa Jam\n\nBy Jiwa Garden & Cafe\n\nJiwa Garden & Cafe\n\n🇮🇩\nCanggu\n\nSpots Available
+DESCRIPTION:10:00 AM, Today\n\nJiwa Jam\n\nBy Jiwa Garden & Cafe\n\nJiwa Garden & Cafe\n\n🇮🇩\nCanggu\n\nSpots Available\nEvent link: https://nomeo.io/m/G5G2V
+URL:https://nomeo.io/m/G5G2V
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-rjfm21yn@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457100-bmljxogd@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:SATURYAY SOCIAL 🍻💬🎤🪩
 DTSTART:20250607T103000Z
 DTEND:20250607T123000Z
 LOCATION:
-DESCRIPTION:10:30 AM, Today\n\nSATURYAY SOCIAL 🍻💬🎤🪩\n\nBy Logen & Dan\n\nLocation visible to Members Only\n\n+43\n\n7 Spots
+DESCRIPTION:10:30 AM, Today\n\nSATURYAY SOCIAL 🍻💬🎤🪩\n\nBy Logen & Dan\n\nLocation visible to Members Only\n\n+44\n\n6 Spots\nEvent link: https://nomeo.io/m/tr1f4
+URL:https://nomeo.io/m/tr1f4
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-y3ee58zd@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457100-vd345tux@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Secret Comedy Night in Seminyak - 7PM & 9PM
 DTSTART:20250607T110000Z
 DTEND:20250607T130000Z
 LOCATION:
-DESCRIPTION:11:00 AM, Today\n\nSecret Comedy Night in Seminyak - 7PM & 9PM\n\nBy Secret Comedy Night Bali\n\nLocation visible to Members Only\n\nSpots Available
+DESCRIPTION:11:00 AM, Today\n\nSecret Comedy Night in Seminyak - 7PM & 9PM\n\nBy Secret Comedy Night Bali\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/af7wQ
+URL:https://nomeo.io/m/af7wQ
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-4h8h49vb@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-mnznla56@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Basement Love X PNNY x La Brisa
 DTSTART:20250607T130000Z
 DTEND:20250607T150000Z
 LOCATION:
-DESCRIPTION:1:00 PM, Today\n\nBasement Love X PNNY x La Brisa\n\nBy jessica\n\nLocation visible to Members Only\n\nSpots Available
+DESCRIPTION:1:00 PM, Today\n\nBasement Love X PNNY x La Brisa\n\nBy jessica\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/BUD4r
+URL:https://nomeo.io/m/BUD4r
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-za203eka@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-mk2keg3n@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Solotravelers meetup Party
 DTSTART:20250607T190000Z
 DTEND:20250607T210000Z
 LOCATION:Canggu
-DESCRIPTION:7:00 PM, Today\n\nSolotravelers meetup Party\n\nBy Eirik\n\nCanggu, Kec. Kuta Utara, Kabupaten Badung, Bali, Indonesia\n\n🇮🇩\nCanggu\n\n30 Spots
+DESCRIPTION:7:00 PM, Today\n\nSolotravelers meetup Party\n\nBy Eirik\n\nCanggu, Kec. Kuta Utara, Kabupaten Badung, Bali, Indonesia\n\n🇮🇩\nCanggu\n\n30 Spots\nEvent link: https://nomeo.io/m/YBAMf
+URL:https://nomeo.io/m/YBAMf
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-22h38umj@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-r7ul83aj@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:📣 Paddle Against Poverty - A community paddle cha...
 DTSTART:20250607T220000Z
 DTEND:20250608T000000Z
 LOCATION:
-DESCRIPTION:10:00 PM, Today\n\n📣 Paddle Against Poverty - A community paddle cha...\n\nBy Nomeo & Dj Denton\n\nLocation visible to Members Only\n\nSpots Available
+DESCRIPTION:10:00 PM, Today\n\n📣 Paddle Against Poverty - A community paddle cha...\n\nBy Nomeo & Dj Denton\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/lPzC7
+URL:https://nomeo.io/m/lPzC7
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-jnzgdq2r@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-aqs1lnfy@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:One-day Women’s retreat - yoga, breath & connectio...
 DTSTART:20250608T010000Z
 DTEND:20250608T030000Z
 LOCATION:Ubud
-DESCRIPTION:1:00 AM, Tomorrow\n\nOne-day Women’s retreat - yoga, breath & connectio...\n\nBy Viktória\n\nPUKAKO by Paddyfield\n\n🇮🇩\nUbud\n\n15 Spots
+DESCRIPTION:1:00 AM, Tomorrow\n\nOne-day Women’s retreat - yoga, breath & connectio...\n\nBy Viktória\n\nPUKAKO by Paddyfield\n\n🇮🇩\nUbud\n\n15 Spots\nEvent link: https://nomeo.io/m/RifRJ
+URL:https://nomeo.io/m/RifRJ
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-23w88whg@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-01lgn6hu@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Canggu Wellness Festival: ENDORPHIN EXPLOSION
 DTSTART:20250608T010000Z
 DTEND:20250608T030000Z
 LOCATION:
-DESCRIPTION:1:00 AM, Tomorrow\n\nCanggu Wellness Festival: ENDORPHIN EXPLOSION\n\nBy BounceHaus\n\nLocation visible to Members Only\n\n10 Spots
+DESCRIPTION:1:00 AM, Tomorrow\n\nCanggu Wellness Festival: ENDORPHIN EXPLOSION\n\nBy BounceHaus\n\nLocation visible to Members Only\n\n10 Spots\nEvent link: https://nomeo.io/m/iKwnr
+URL:https://nomeo.io/m/iKwnr
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-38liy5ke@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-qouzpfv4@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:PickleBali Open Play - Sunday
 DTSTART:20250608T040000Z
 DTEND:20250608T060000Z
 LOCATION:
-DESCRIPTION:4:00 AM, Tomorrow\n\nPickleBali Open Play - Sunday\n\nBy YOQI\n\nLocation visible to Members Only\n\nSpots Available
+DESCRIPTION:4:00 AM, Tomorrow\n\nPickleBali Open Play - Sunday\n\nBy YOQI\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/66M4r
+URL:https://nomeo.io/m/66M4r
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-d4uomvb2@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-qd7t3p2k@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Balinese Fire Ceremony and Meditation
 DTSTART:20250608T080000Z
 DTEND:20250608T100000Z
 LOCATION:Payangan
-DESCRIPTION:8:00 AM, Tomorrow\n\nBalinese Fire Ceremony and Meditation\n\nBy Nomads Giving Back!\n\nOm Hara Kailasha Painter\n\n🇮🇩\nPayangan\n\nSpots Available
+DESCRIPTION:8:00 AM, Tomorrow\n\nBalinese Fire Ceremony and Meditation\n\nBy Nomads Giving Back!\n\nOm Hara Kailasha Painter\n\n🇮🇩\nPayangan\n\nSpots Available\nEvent link: https://nomeo.io/m/86VCq
+URL:https://nomeo.io/m/86VCq
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-v37ub6u5@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-pg95gci9@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:♠ Sunday Board Game Night 🎲
 DTSTART:20250608T100000Z
 DTEND:20250608T120000Z
 LOCATION:Canggu
-DESCRIPTION:10:00 AM, Tomorrow\n\n♠ Sunday Board Game Night 🎲\n\nBy Alexei & Dan\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n43 Spots
+DESCRIPTION:10:00 AM, Tomorrow\n\n♠ Sunday Board Game Night 🎲\n\nBy Alexei & Dan\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n+1\n\n42 Spots\nEvent link: https://nomeo.io/m/yAJMn
+URL:https://nomeo.io/m/yAJMn
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-gn5wlv7o@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-subrwjv1@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:[RESCHEDULED] ASTROLITE: Stargazing & Chill
 DTSTART:20250608T103000Z
 DTEND:20250608T123000Z
 LOCATION:Canggu
-DESCRIPTION:10:30 AM, Tomorrow\n\n[RESCHEDULED] ASTROLITE: Stargazing & Chill\n\nBy Gabrielle Tania\n\nPantai Batu Bolong\n\n🇮🇩\nCanggu\n\n+16\n\nFull
+DESCRIPTION:10:30 AM, Tomorrow\n\n[RESCHEDULED] ASTROLITE: Stargazing & Chill\n\nBy Gabrielle Tania\n\nPantai Batu Bolong\n\n🇮🇩\nCanggu\n\n+16\n\nFull\nEvent link: https://nomeo.io/m/yOZox
+URL:https://nomeo.io/m/yOZox
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-liqb32hi@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-dr5gso4n@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:Fire Dance Sunday 🔥💕🌺
 DTSTART:20250608T110000Z
 DTEND:20250608T130000Z
 LOCATION:
-DESCRIPTION:11:00 AM, Tomorrow\n\nFire Dance Sunday 🔥💕🌺\n\nBy JJJ\n\nLocation visible to Members Only\n\nSpots Available
+DESCRIPTION:11:00 AM, Tomorrow\n\nFire Dance Sunday 🔥💕🌺\n\nBy JJJ\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/BvfCn
+URL:https://nomeo.io/m/BvfCn
 END:VEVENT
 BEGIN:VEVENT
-UID:1749269962669-m5o7vc8b@nomeo.io
-DTSTAMP:20250607T041922
+UID:1749271457101-k5izr2mf@nomeo.io
+DTSTAMP:20250607T044417
 SUMMARY:🎬Sunday Movie Night (Inception [2010])
 DTSTART:20250608T110000Z
 DTEND:20250608T130000Z
 LOCATION:Canggu
-DESCRIPTION:11:00 AM, Tomorrow\n\n🎬Sunday Movie Night (Inception [2010])\n\nBy Alexei & Dan +1\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n+11\n\n5 Spots
+DESCRIPTION:11:00 AM, Tomorrow\n\n🎬Sunday Movie Night (Inception [2010])\n\nBy Alexei & Dan +1\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n+11\n\n5 Spots\nEvent link: https://nomeo.io/m/MBGRz
+URL:https://nomeo.io/m/MBGRz
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-bp9f49bs@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Breathwork & Breakfast | JIWA Community Garden
+DTSTART:20250609T001500Z
+DTEND:20250609T021500Z
+LOCATION:Canggu
+DESCRIPTION:12:15 AM, 9 Jun (Mon)\n\nBreathwork & Breakfast | JIWA Community Garden\n\nBy Entourage & Hidde\n\nJiwa Community Garden\n\n🇮🇩\nCanggu\n\n+8\n\nFull\nEvent link: https://nomeo.io/m/RoO2U
+URL:https://nomeo.io/m/RoO2U
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-r8a8qdxe@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:OPEN MIC NIGHT in Canggu - 8PM
+DTSTART:20250609T120000Z
+DTEND:20250609T140000Z
+LOCATION:
+DESCRIPTION:12:00 PM, 9 Jun (Mon)\n\nOPEN MIC NIGHT in Canggu - 8PM\n\nBy Secret Comedy Night Bali\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/0hSsq
+URL:https://nomeo.io/m/0hSsq
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-l0l6qe43@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:🤖 AI MARKETING TOOLS (Supercharging Your Marketin...
+DTSTART:20250610T090000Z
+DTEND:20250610T110000Z
+LOCATION:
+DESCRIPTION:9:00 AM, 10 Jun (Tue)\n\n🤖 AI MARKETING TOOLS (Supercharging Your Marketin...\n\nBy Dan & Putra\n\nLocation visible to Members Only\n\n+23\n\nSpots Available\nEvent link: https://nomeo.io/m/HbXoh
+URL:https://nomeo.io/m/HbXoh
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-d1mv32ig@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Cérémonie de pleine lune 🌕 Cacao, Cercle de Femme...
+DTSTART:20250610T100000Z
+DTEND:20250610T120000Z
+LOCATION:
+DESCRIPTION:10:00 AM, 10 Jun (Tue)\n\nCérémonie de pleine lune 🌕 Cacao, Cercle de Femme...\n\nBy Aurélie\n\nLocation visible to Members Only\n\n6 Spots\nEvent link: https://nomeo.io/m/qsTcO
+URL:https://nomeo.io/m/qsTcO
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-iriyanxu@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Improvisation Games—Improv Theatre Playshop
+DTSTART:20250610T110000Z
+DTEND:20250610T130000Z
+LOCATION:Canggu
+DESCRIPTION:11:00 AM, 10 Jun (Tue)\n\nImprovisation Games—Improv Theatre Playshop\n\nBy Nebula Entrepreneur Space & Wes\n\nNebula Entrepreneur Coworking Space\n\n🇮🇩\nCanggu\n\n+3\n\n23 Spots\nEvent link: https://nomeo.io/m/1MwDC
+URL:https://nomeo.io/m/1MwDC
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-3nhy5yg0@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Secret Comedy Night (Live in Uluwatu) - 7.30PM
+DTSTART:20250610T113000Z
+DTEND:20250610T133000Z
+LOCATION:
+DESCRIPTION:11:30 AM, 10 Jun (Tue)\n\nSecret Comedy Night (Live in Uluwatu) - 7.30PM\n\nBy Secret Comedy Night Bali\n\nLocation visible to Members Only\n\nSpots Available\nEvent link: https://nomeo.io/m/wOzb1
+URL:https://nomeo.io/m/wOzb1
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-upl0io2h@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Manifestation: The 4 Levels and How to Manifest Wh...
+DTSTART:20250611T020000Z
+DTEND:20250611T040000Z
+LOCATION:Canggu
+DESCRIPTION:2:00 AM, 11 Jun (Wed)\n\nManifestation: The 4 Levels and How to Manifest Wh...\n\nBy samada worklife\n\nSamada Work Life\n\n🇮🇩\nCanggu\n\n+1\n\nSpots Available\nEvent link: https://nomeo.io/m/k7VuK
+URL:https://nomeo.io/m/k7VuK
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-ptysg5y7@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Beads and Bahasa | Learn Bahasa Indonesia and Make...
+DTSTART:20250611T020000Z
+DTEND:20250611T040000Z
+LOCATION:Legian
+DESCRIPTION:2:00 AM, 11 Jun (Wed)\n\nBeads and Bahasa | Learn Bahasa Indonesia and Make...\n\nBy Kapumali\n\nTifani Jewelry & Kapumali Car Rental\n\n🇮🇩\nLegian\n\nSpots Available\nEvent link: https://nomeo.io/m/xk9gv
+URL:https://nomeo.io/m/xk9gv
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-xlh1f9iw@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Girls Who Build | Brunch & Network
+DTSTART:20250611T043000Z
+DTEND:20250611T063000Z
+LOCATION:Canggu
+DESCRIPTION:4:30 AM, 11 Jun (Wed)\n\nGirls Who Build | Brunch & Network\n\nBy Daria Littlefield\n\nSamm's Farm\n\n🇮🇩\nCanggu\n\n+8\n\nFull\nEvent link: https://nomeo.io/m/WDpdA
+URL:https://nomeo.io/m/WDpdA
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-cdcqlirf@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Psychology Practice: In Search of Authenticity
+DTSTART:20250611T090000Z
+DTEND:20250611T110000Z
+LOCATION:Canggu
+DESCRIPTION:9:00 AM, 11 Jun (Wed)\n\nPsychology Practice: In Search of Authenticity\n\nBy Paul\n\nLoko Café\n\n🇮🇩\nCanggu\n\n+2\n\nSpots Available\nEvent link: https://nomeo.io/m/4515K
+URL:https://nomeo.io/m/4515K
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-11sn71pn@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:♠ Weekly Board Game Night 🎲
+DTSTART:20250611T100000Z
+DTEND:20250611T120000Z
+LOCATION:Canggu
+DESCRIPTION:10:00 AM, 11 Jun (Wed)\n\n♠ Weekly Board Game Night 🎲\n\nBy Alexei & Dan\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n44 Spots\nEvent link: https://nomeo.io/m/SsPX8
+URL:https://nomeo.io/m/SsPX8
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-19np7k83@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:ANTI.PROPHET: DIGITAL SOBRIETY 📲 Escaping Algorit...
+DTSTART:20250611T103000Z
+DTEND:20250611T123000Z
+LOCATION:Canggu
+DESCRIPTION:10:30 AM, 11 Jun (Wed)\n\nANTI.PROPHET: DIGITAL SOBRIETY 📲 Escaping Algorit...\n\nBy BWork Bali Coworking Space & Cafe\n\nB Work Bali\n\n🇮🇩\nCanggu\n\n27 Spots\nEvent link: https://nomeo.io/m/B0Afh
+URL:https://nomeo.io/m/B0Afh
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-rpexpie3@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Bali Soul Tribe dinner
+DTSTART:20250611T113000Z
+DTEND:20250611T133000Z
+LOCATION:
+DESCRIPTION:11:30 AM, 11 Jun (Wed)\n\nBali Soul Tribe dinner\n\nBy Sherise\n\nLocation visible to Members Only\n\n+3\n\n5 Spots\nEvent link: https://nomeo.io/m/cbyZd
+URL:https://nomeo.io/m/cbyZd
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-exftbits@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Terra Entrepreneurs Weekly Networking Session. by ...
+DTSTART:20250612T033000Z
+DTEND:20250612T053000Z
+LOCATION:Seminyak
+DESCRIPTION:3:30 AM, 12 Jun (Thu)\n\nTerra Entrepreneurs Weekly Networking Session. by ...\n\nBy Terra Bali Business Club\n\nTS Suites\n\n🇮🇩\nSeminyak\n\n+1\n\n29 Spots\nEvent link: https://nomeo.io/m/9qE7M
+URL:https://nomeo.io/m/9qE7M
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-jz9sltul@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Healing High-Functioning Anxiety, For The Ambitiou...
+DTSTART:20250612T070000Z
+DTEND:20250612T090000Z
+LOCATION:
+DESCRIPTION:7:00 AM, 12 Jun (Thu)\n\nHealing High-Functioning Anxiety, For The Ambitiou...\n\nBy Sarah roz\n\nLocation visible to Members Only\n\n19 Spots\nEvent link: https://nomeo.io/m/qcBTN
+URL:https://nomeo.io/m/qcBTN
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-zxthmtfw@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:EMOTIONAL INTELLIGENCE
+DTSTART:20250612T080000Z
+DTEND:20250612T100000Z
+LOCATION:Canggu
+DESCRIPTION:8:00 AM, 12 Jun (Thu)\n\nEMOTIONAL INTELLIGENCE\n\nBy samada worklife\n\nSamada Work Life\n\n🇮🇩\nCanggu\n\nSpots Available\nEvent link: https://nomeo.io/m/WlG3Z
+URL:https://nomeo.io/m/WlG3Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-qpvtdhxz@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Master N8N to Boost Your Social Media
+DTSTART:20250612T100000Z
+DTEND:20250612T120000Z
+LOCATION:
+DESCRIPTION:10:00 AM, 12 Jun (Thu)\n\nMaster N8N to Boost Your Social Media\n\nBy Awan Connection\n\nLocation visible to Members Only\n\n+6\n\nFull\nEvent link: https://nomeo.io/m/bp2wq
+URL:https://nomeo.io/m/bp2wq
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-2lvdh9jb@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:Ubud Dinner Club #20, June 12 🍱 Flavors & Vibes a...
+DTSTART:20250612T100000Z
+DTEND:20250612T120000Z
+LOCATION:Ubud
+DESCRIPTION:10:00 AM, 12 Jun (Thu)\n\nUbud Dinner Club #20, June 12 🍱 Flavors & Vibes a...\n\nBy Guillermo (Gi)\n\nKyoka Japanese Kitchen Ubud\n\n🇮🇩\nUbud\n\n10 Spots\nEvent link: https://nomeo.io/m/WumUl
+URL:https://nomeo.io/m/WumUl
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-coazzjrn@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:🗣️🇩🇪🇨🇭🇦🇹 Evening Meetup - German-speaking S...
+DTSTART:20250612T110000Z
+DTEND:20250612T130000Z
+LOCATION:Canggu
+DESCRIPTION:11:00 AM, 12 Jun (Thu)\n\n🗣️🇩🇪🇨🇭🇦🇹 Evening Meetup - German-speaking S...\n\nBy Stammtisch Bali\n\nAmolas Cafe\n\n🇮🇩\nCanggu\n\nSpots Available\nEvent link: https://nomeo.io/m/2aBYM
+URL:https://nomeo.io/m/2aBYM
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-uxjjm1p2@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:🎸Sing, Sip & Vibe: Acoustic Music & Open Mic 🎤
+DTSTART:20250612T113000Z
+DTEND:20250612T133000Z
+LOCATION:Canggu
+DESCRIPTION:11:30 AM, 12 Jun (Thu)\n\n🎸Sing, Sip & Vibe: Acoustic Music & Open Mic 🎤\n\nBy Alexei & Dan +1\n\nLoko Café\n\n🇮🇩\nCanggu\n\n31 Spots\nEvent link: https://nomeo.io/m/w4gfh
+URL:https://nomeo.io/m/w4gfh
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-ho4l1j8o@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:☕ KOPI BAHASA – Learn Indonesian Over Coffee (For ...
+DTSTART:20250613T023000Z
+DTEND:20250613T043000Z
+LOCATION:
+DESCRIPTION:2:30 AM, 13 Jun (Fri)\n\n☕ KOPI BAHASA – Learn Indonesian Over Coffee (For ...\n\nBy LOKA Language\n\nLocation visible to Members Only\n\n8 Spots\nEvent link: https://nomeo.io/m/c9s8L
+URL:https://nomeo.io/m/c9s8L
+END:VEVENT
+BEGIN:VEVENT
+UID:1749271457101-b6iwrjtx@nomeo.io
+DTSTAMP:20250607T044417
+SUMMARY:🪬 Free Mandala Coloring: Glow in the Dark
+DTSTART:20250613T060000Z
+DTEND:20250613T080000Z
+LOCATION:Ubud
+DESCRIPTION:6:00 AM, 13 Jun (Fri)\n\n🪬 Free Mandala Coloring: Glow in the Dark\n\nBy Ubud Art Studio & Guillermo (Gi)\n\nPaint & Sip Ubud Art Workshop Studio\n\n🇮🇩\nUbud\n\nSpots Available\nEvent link: https://nomeo.io/m/DqrlJ
+URL:https://nomeo.io/m/DqrlJ
 END:VEVENT
 END:VCALENDAR
