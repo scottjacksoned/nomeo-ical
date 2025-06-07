@@ -3,122 +3,156 @@ VERSION:2.0
 PRODID:-//Scott Jackson//NomeoMeetups//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
+UID:1749269962668-8oevferd@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:ClayMaji : Doing Art Clay on Mirror
-DTSTART;TZID=Asia/Singapore:20250607T060000
-DTEND;TZID=Asia/Singapore:20250607T080000
+DTSTART:20250607T060000Z
+DTEND:20250607T080000Z
 LOCATION:
 DESCRIPTION:6:00 AM, Today\n\nClayMaji : Doing Art Clay on Mirror\n\nBy codeco bali\n\nLocation visible to Members Only\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962668-p5bzjakn@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:The Pool Lab: Gather, Play, Innovate 🎱🧪
-DTSTART;TZID=Asia/Singapore:20250607T070000
-DTEND;TZID=Asia/Singapore:20250607T090000
+DTSTART:20250607T070000Z
+DTEND:20250607T090000Z
 LOCATION:
-DESCRIPTION:7:00 AM, Today\n\nThe Pool Lab: Gather, Play, Innovate 🎱🧪\n\nBy João Dias\n\nLocation visible to Members Only\n\n6 Spots
+DESCRIPTION:7:00 AM, Today\n\nThe Pool Lab: Gather, Play, Innovate 🎱🧪\n\nBy João Dias\n\nLocation visible to Members Only\n\n5 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962668-nojtttbw@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Puppy Yoga & Sunset Drinks | Puppy Yoga Canggu
-DTSTART;TZID=Asia/Singapore:20250607T073000
-DTEND;TZID=Asia/Singapore:20250607T093000
+DTSTART:20250607T073000Z
+DTEND:20250607T093000Z
 LOCATION:Canggu
 DESCRIPTION:7:30 AM, Today\n\nPuppy Yoga & Sunset Drinks | Puppy Yoga Canggu\n\nBy Entourage & Hidde\n\nAnginsepoi\n\n🇮🇩\nCanggu\n\n+8\n\n8 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-65v7qxen@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Jiwa Jam
-DTSTART;TZID=Asia/Singapore:20250607T100000
-DTEND;TZID=Asia/Singapore:20250607T120000
+DTSTART:20250607T100000Z
+DTEND:20250607T120000Z
 LOCATION:Canggu
 DESCRIPTION:10:00 AM, Today\n\nJiwa Jam\n\nBy Jiwa Garden & Cafe\n\nJiwa Garden & Cafe\n\n🇮🇩\nCanggu\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-rjfm21yn@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:SATURYAY SOCIAL 🍻💬🎤🪩
-DTSTART;TZID=Asia/Singapore:20250607T103000
-DTEND;TZID=Asia/Singapore:20250607T123000
+DTSTART:20250607T103000Z
+DTEND:20250607T123000Z
 LOCATION:
-DESCRIPTION:10:30 AM, Today\n\nSATURYAY SOCIAL 🍻💬🎤🪩\n\nBy Logen & Dan\n\nLocation visible to Members Only\n\n+42\n\nSpots Available
+DESCRIPTION:10:30 AM, Today\n\nSATURYAY SOCIAL 🍻💬🎤🪩\n\nBy Logen & Dan\n\nLocation visible to Members Only\n\n+43\n\n7 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-y3ee58zd@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Secret Comedy Night in Seminyak - 7PM & 9PM
-DTSTART;TZID=Asia/Singapore:20250607T110000
-DTEND;TZID=Asia/Singapore:20250607T130000
+DTSTART:20250607T110000Z
+DTEND:20250607T130000Z
 LOCATION:
 DESCRIPTION:11:00 AM, Today\n\nSecret Comedy Night in Seminyak - 7PM & 9PM\n\nBy Secret Comedy Night Bali\n\nLocation visible to Members Only\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-4h8h49vb@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Basement Love X PNNY x La Brisa
-DTSTART;TZID=Asia/Singapore:20250607T130000
-DTEND;TZID=Asia/Singapore:20250607T150000
+DTSTART:20250607T130000Z
+DTEND:20250607T150000Z
 LOCATION:
 DESCRIPTION:1:00 PM, Today\n\nBasement Love X PNNY x La Brisa\n\nBy jessica\n\nLocation visible to Members Only\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-za203eka@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Solotravelers meetup Party
-DTSTART;TZID=Asia/Singapore:20250607T190000
-DTEND;TZID=Asia/Singapore:20250607T210000
+DTSTART:20250607T190000Z
+DTEND:20250607T210000Z
 LOCATION:Canggu
 DESCRIPTION:7:00 PM, Today\n\nSolotravelers meetup Party\n\nBy Eirik\n\nCanggu, Kec. Kuta Utara, Kabupaten Badung, Bali, Indonesia\n\n🇮🇩\nCanggu\n\n30 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-22h38umj@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:📣 Paddle Against Poverty - A community paddle cha...
-DTSTART;TZID=Asia/Singapore:20250607T220000
-DTEND;TZID=Asia/Singapore:20250608T000000
+DTSTART:20250607T220000Z
+DTEND:20250608T000000Z
 LOCATION:
 DESCRIPTION:10:00 PM, Today\n\n📣 Paddle Against Poverty - A community paddle cha...\n\nBy Nomeo & Dj Denton\n\nLocation visible to Members Only\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-jnzgdq2r@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:One-day Women’s retreat - yoga, breath & connectio...
-DTSTART;TZID=Asia/Singapore:20250608T010000
-DTEND;TZID=Asia/Singapore:20250608T030000
+DTSTART:20250608T010000Z
+DTEND:20250608T030000Z
 LOCATION:Ubud
 DESCRIPTION:1:00 AM, Tomorrow\n\nOne-day Women’s retreat - yoga, breath & connectio...\n\nBy Viktória\n\nPUKAKO by Paddyfield\n\n🇮🇩\nUbud\n\n15 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-23w88whg@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Canggu Wellness Festival: ENDORPHIN EXPLOSION
-DTSTART;TZID=Asia/Singapore:20250608T010000
-DTEND;TZID=Asia/Singapore:20250608T030000
+DTSTART:20250608T010000Z
+DTEND:20250608T030000Z
 LOCATION:
 DESCRIPTION:1:00 AM, Tomorrow\n\nCanggu Wellness Festival: ENDORPHIN EXPLOSION\n\nBy BounceHaus\n\nLocation visible to Members Only\n\n10 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-38liy5ke@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:PickleBali Open Play - Sunday
-DTSTART;TZID=Asia/Singapore:20250608T040000
-DTEND;TZID=Asia/Singapore:20250608T060000
+DTSTART:20250608T040000Z
+DTEND:20250608T060000Z
 LOCATION:
 DESCRIPTION:4:00 AM, Tomorrow\n\nPickleBali Open Play - Sunday\n\nBy YOQI\n\nLocation visible to Members Only\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-d4uomvb2@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Balinese Fire Ceremony and Meditation
-DTSTART;TZID=Asia/Singapore:20250608T080000
-DTEND;TZID=Asia/Singapore:20250608T100000
+DTSTART:20250608T080000Z
+DTEND:20250608T100000Z
 LOCATION:Payangan
 DESCRIPTION:8:00 AM, Tomorrow\n\nBalinese Fire Ceremony and Meditation\n\nBy Nomads Giving Back!\n\nOm Hara Kailasha Painter\n\n🇮🇩\nPayangan\n\nSpots Available
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-v37ub6u5@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:♠ Sunday Board Game Night 🎲
-DTSTART;TZID=Asia/Singapore:20250608T100000
-DTEND;TZID=Asia/Singapore:20250608T120000
+DTSTART:20250608T100000Z
+DTEND:20250608T120000Z
 LOCATION:Canggu
 DESCRIPTION:10:00 AM, Tomorrow\n\n♠ Sunday Board Game Night 🎲\n\nBy Alexei & Dan\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n43 Spots
 END:VEVENT
 BEGIN:VEVENT
+UID:1749269962669-gn5wlv7o@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:[RESCHEDULED] ASTROLITE: Stargazing & Chill
-DTSTART;TZID=Asia/Singapore:20250608T103000
-DTEND;TZID=Asia/Singapore:20250608T123000
+DTSTART:20250608T103000Z
+DTEND:20250608T123000Z
 LOCATION:Canggu
 DESCRIPTION:10:30 AM, Tomorrow\n\n[RESCHEDULED] ASTROLITE: Stargazing & Chill\n\nBy Gabrielle Tania\n\nPantai Batu Bolong\n\n🇮🇩\nCanggu\n\n+16\n\nFull
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎬Sunday Movie Night (Inception [2010])
-DTSTART;TZID=Asia/Singapore:20250608T110000
-DTEND;TZID=Asia/Singapore:20250608T130000
-LOCATION:Canggu
-DESCRIPTION:11:00 AM, Tomorrow\n\n🎬Sunday Movie Night (Inception [2010])\n\nBy Alexei & Dan +1\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n+11\n\n5 Spots
-END:VEVENT
-BEGIN:VEVENT
+UID:1749269962669-liqb32hi@nomeo.io
+DTSTAMP:20250607T041922
 SUMMARY:Fire Dance Sunday 🔥💕🌺
-DTSTART;TZID=Asia/Singapore:20250608T110000
-DTEND;TZID=Asia/Singapore:20250608T130000
+DTSTART:20250608T110000Z
+DTEND:20250608T130000Z
 LOCATION:
 DESCRIPTION:11:00 AM, Tomorrow\n\nFire Dance Sunday 🔥💕🌺\n\nBy JJJ\n\nLocation visible to Members Only\n\nSpots Available
+END:VEVENT
+BEGIN:VEVENT
+UID:1749269962669-m5o7vc8b@nomeo.io
+DTSTAMP:20250607T041922
+SUMMARY:🎬Sunday Movie Night (Inception [2010])
+DTSTART:20250608T110000Z
+DTEND:20250608T130000Z
+LOCATION:Canggu
+DESCRIPTION:11:00 AM, Tomorrow\n\n🎬Sunday Movie Night (Inception [2010])\n\nBy Alexei & Dan +1\n\nLoko Cafe\n\n🇮🇩\nCanggu\n\n+11\n\n5 Spots
 END:VEVENT
 END:VCALENDAR
